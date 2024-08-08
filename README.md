@@ -12,7 +12,7 @@ Sumário
     Licença
     Contato
 
-#Visão Geral
+# Visão Geral
 
 O Web Portfólio é um site pessoal criado para destacar as habilidades e conquistas profissionais, nesse caso as minhas, a minha ideia e ir montando aos poucos e fazer updates e mais updates. O projeto é para ser construído com uma abordagem responsiva e otimizada para todos os dispositivos. Inclui seções para projetos, experiência profissional, habilidades e uma página de contato.
 Recursos
@@ -24,7 +24,7 @@ Recursos
     Formulário de Contato: Permite que visitantes entrem em contato diretamente com você.
     Estilo Personalizado: Temas e layouts personalizáveis para atender às suas preferências.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
     HTML5: Estrutura básica do site.
     CSS3: Estilização e layout.
@@ -33,7 +33,7 @@ Tecnologias Utilizadas
     Bootstrap (opcional): ...Necessario atençao
 
 
-Instalação e Configuração
+# Instalação e Configuração
 
     Clone o Repositório:
 
@@ -60,13 +60,13 @@ yarn install
 
 
 
-**Contribuição**
+# **Contribuição**
 
 Contribuições são bem-vindas! Se você deseja adicionar novos recursos ou corrigir bugs, siga estas etapas:
 
   
 
-**Contato**
+# **Contato**
 
 Se você tiver alguma dúvida ou sugestão, entre em contato através do meu LinkedIn:
 
