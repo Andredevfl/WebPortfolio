@@ -12,9 +12,9 @@ Sumário
     Licença
     Contato
 
-Visão Geral
+#Visão Geral
 
-O Web Portfólio é um site pessoal criado para destacar as habilidades e conquistas profissionais. O projeto é construído com uma abordagem responsiva e otimizada para todos os dispositivos. Inclui seções para projetos, experiência profissional, habilidades e uma página de contato.
+O Web Portfólio é um site pessoal criado para destacar as habilidades e conquistas profissionais, nesse caso as minhas, a minha ideia e ir montando aos poucos e fazer updates e mais updates. O projeto é para ser construído com uma abordagem responsiva e otimizada para todos os dispositivos. Inclui seções para projetos, experiência profissional, habilidades e uma página de contato.
 Recursos
 
     Design Responsivo: Compatível com dispositivos móveis e desktops.
@@ -53,20 +53,20 @@ Se você estiver usando um gerenciador de pacotes como npm ou yarn, execute:
 bash
 
 npm install
-# ou
+ou
 yarn install
 
 
 
 
 
-Contribuição
+**Contribuição**
 
 Contribuições são bem-vindas! Se você deseja adicionar novos recursos ou corrigir bugs, siga estas etapas:
 
   
 
-Contato
+**Contato**
 
 Se você tiver alguma dúvida ou sugestão, entre em contato através do meu LinkedIn:
 
