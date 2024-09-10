@@ -1,22 +1,20 @@
 # ***Web Portfólio***
 
 Bem-vindo ao meu projeto Web Portfólio! Este repositório contém parte do código-fonte para um portfólio pessoal projetado para exibir habilidades, projetos e experiências de forma moderna e responsiva, e tambem deixar um otima UX. Este README fornece uma visão geral do projeto, instruções de configuração e informações úteis para contribuir.
-Sumário
+ - Sumário
 
-    Visão Geral
-    Recursos
-    Tecnologias Utilizadas
-    Instalação e Configuração
-    Como Usar
-    Contribuição
-    Licença
-    Contato
+    * *1. Visão Geral*
+    * *2. Recursos*
+    * *3. Tecnologias Utilizadas*
+    * *4. Instalação e Configuração*
+    * *5. Licenças*
+    * *6. Contato*
 
-# Visão Geral
+# 1. Visão Geral
 
 O Web Portfólio é um site pessoal criado para destacar as habilidades e conquistas profissionais, nesse caso as minhas, a minha ideia e ir montando aos poucos e fazer updates e mais updates. O projeto é para ser construído com uma abordagem responsiva e otimizada para todos os dispositivos. Inclui seções para projetos, experiência profissional, habilidades e uma página de contato.
 
-# Recursos
+# 2. Recursos
 
     -    Design Responsivo: Compatível com dispositivos móveis e desktops.
     -    Seção de Projetos: Apresente seus projetos com descrições e links.
@@ -25,7 +23,7 @@ O Web Portfólio é um site pessoal criado para destacar as habilidades e conqui
     -    Formulário de Contato: Permite que visitantes entrem em contato diretamente com você.
     -    Estilo Personalizado: Temas e layouts personalizáveis para atender às suas preferências.
 
-# Tecnologias Utilizadas
+# 3. Tecnologias Utilizadas
 
     HTML5: Estrutura básica do site.
     CSS3: Estilização e layout.
@@ -34,7 +32,7 @@ O Web Portfólio é um site pessoal criado para destacar as habilidades e conqui
     Bootstrap (opcional): ...Necessario atençao
 
 
-# Instalação e Configuração
+# 4. Instalação e Configuração
 
     Clone o Repositório:
 
@@ -58,18 +56,13 @@ ou
 yarn install
 
 
+# 5. Licenças
 
+Esse projeto utiliza algumas tecnologias de licenciamento de cunho GNU, especificamente utiliza o manager OWA (Open Web Analytics) para o tratamento de dados de usuário que visita o site
 
+# 6. Contato
 
-# **Contribuição**
-
-Contribuições são bem-vindas! Se você deseja adicionar novos recursos ou corrigir bugs, siga estas etapas:
-
-  
-
-# **Contato**
-
-Se você tiver alguma dúvida ou sugestão, entre em contato através do meu LinkedIn:
+Se você tiver alguma dúvida ou sugestão, pode estar entrado na parte de /contatos no próprio site, ou pode estar entrando em contato aqui ou através do meu LinkedIn:
 
     
     LinkedIn: https://www.linkedin.com/in/andre-g-600252245/
