@@ -15,14 +15,15 @@ Sumário
 # Visão Geral
 
 O Web Portfólio é um site pessoal criado para destacar as habilidades e conquistas profissionais, nesse caso as minhas, a minha ideia e ir montando aos poucos e fazer updates e mais updates. O projeto é para ser construído com uma abordagem responsiva e otimizada para todos os dispositivos. Inclui seções para projetos, experiência profissional, habilidades e uma página de contato.
-Recursos
 
-    Design Responsivo: Compatível com dispositivos móveis e desktops.
-    Seção de Projetos: Apresente seus projetos com descrições e links.
-    Experiência Profissional: Liste suas experiências de trabalho e conquistas.
-    Habilidades: Mostre suas principais habilidades com gráficos ou listas.
-    Formulário de Contato: Permite que visitantes entrem em contato diretamente com você.
-    Estilo Personalizado: Temas e layouts personalizáveis para atender às suas preferências.
+# Recursos
+
+    -    Design Responsivo: Compatível com dispositivos móveis e desktops.
+    -    Seção de Projetos: Apresente seus projetos com descrições e links.
+    -     Experiência Profissional: Listar experiências de trabalho e conquistas.
+    -    Habilidades: Mostrar suas principais habilidades com gráficos ou listas.
+    -    Formulário de Contato: Permite que visitantes entrem em contato diretamente com você.
+    -    Estilo Personalizado: Temas e layouts personalizáveis para atender às suas preferências.
 
 # Tecnologias Utilizadas
 
