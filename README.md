@@ -68,4 +68,4 @@ Se você tiver alguma dúvida ou sugestão, pode estar entrado na parte de /cont
     LinkedIn: https://www.linkedin.com/in/andre-g-600252245/
     
 
-Obrigado por visitar o meu Web Portfólio! Esperamos que este projeto seja útil para você e que inspire a criação de um portfólio incrível. 🚀
+Obrigado por visitar o meu Web Portfólio! Espero que este projeto seja útil para você e que inspire a criação de um portfólio incrível. 🚀
