@@ -2,6 +2,7 @@
 
 ![greeting](https://github.com/user-attachments/assets/e9c68487-0065-4bb9-9f33-843d10083a06)
 
+[![English Version](https://img.shields.io/badge/English-Version-blue)](https://github.com/Andredevfl/projeto-web-port/blob/main/README.en.md)
 
 Bem-vindo ao meu projeto Web Portfólio! Este repositório contém parte do código-fonte para um portfólio pessoal projetado para exibir habilidades, projetos e experiências de forma moderna e responsiva, e tambem deixar um ótima UX. Este README fornece uma visão geral do projeto, instruções de configuração e informações úteis para contribuir.
  - Sumário
