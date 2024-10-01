@@ -1,0 +1,61 @@
+/* Adicione esse arquivo para as paginas para aplicar o efeito do cursor */
+/* Nao esqueça de aplicar "cursor: none;" no bodys respectivos! */
+
+
+#custom-cursor {
+    position: absolute;
+    width: 40px; /* Ajuste o tamanho conforme necessário */
+    height: 40px; /* Ajuste o tamanho conforme necessário */
+    background-image: url('cursor1.png');
+    background-size: cover;
+    pointer-events: none;
+    transition: transform 0.1s ease-in-out; /* Para o efeito de boing */
+    z-index: 9999;
+    animation: pulse 1.5s infinite; /* Ajuste a duração e repetição conforme necessário */
+}
+
+/* Animação de brilho pulsante */
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 rgba(255, 255, 255, 0.8); /* Brilho inicial ajustado */
+        border-radius: 50%; /* Mantém a borda arredondada */
+    }
+    50% {
+        box-shadow: 0 0 20px rgba(255, 255, 255, 0.8); /* Brilho máximo */
+        border-radius: 50%; /* Mantém a borda arredondada */
+    }
+    100% {
+        box-shadow: 0 0 0 rgba(255, 255, 255, 0.8); /* Brilho final ajustado */
+        border-radius: 50%; /* Mantém a borda arredondada */
+    }
+}
+
+/* Estilo para o efeito de boing */
+.cursor-boing {
+    transform: scale(1.85);
+}
+
+/* Estilo para o cursor durante interações */
+.interactive, input[type="text"], textarea, button, a {
+    cursor: url('cursor2.png') 16 16, auto;
+}
+
+
+/* Estilo para o cursor ao focar */
+input[type="text"]:focus,
+textarea:focus,
+button:hover,
+a:hover {
+    cursor: none;
+}
+
+/* Defina o estilo para a trilha do cursor */
+.cursor-trail {
+    position: absolute;
+    width: 40px; /* Ajuste o tamanho conforme necessário */
+    height: 40px; /* Ajuste o tamanho conforme necessário */
+    background-image: url('cursor2.png');
+    background-size: cover;
+    pointer-events: none;
+    z-index: 1000; /* Garante que as trilhas fiquem acima de outros elementos */
+}
