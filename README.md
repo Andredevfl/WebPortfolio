@@ -32,9 +32,9 @@ O Web Portfólio é um site pessoal criado para destacar as habilidades e conqui
     HTML5: Estrutura básica do site.
     CSS3: Estilização e layout.
     JavaScript: Interatividade e funcionalidades dinâmicas.
-    React (opcional): ... Necessario atençao
-    Bootstrap (opcional): ...Necessario atençao
-
+    Pyton: Lógica para estátiscas do Github, implementação de função para extrair dados da API do GitHub
+    OWA/Open Web Analytics: Coleta de cookies 
+   
 
 # 4. Instalação e Configuração
 
