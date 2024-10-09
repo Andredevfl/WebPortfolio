@@ -35,6 +35,7 @@ O Web Portfólio é um site pessoal criado para destacar as habilidades e conqui
     Pyton: Lógica para estátiscas do Github, implementação de função para extrair dados da API do GitHub
     OWA/Open Web Analytics: Coleta de cookies 
     PHPMailer: Auxilio para o recurso de e-mails
+    hCaptcha: Uso para atenticação na página /Contato
    
 
 # 4. Instalação e Configuração
