@@ -26,12 +26,17 @@ The Web Portfolio is a personal website created to highlight professional skills
 
 # 3. Technologies Used
 
-HTML5: Basic structure of the site.
+````
+HTML5: Basic website structure.
 CSS3: Styling and layout.
 JavaScript: Interactivity and dynamic features.
-React (optional): ... Attention required
-Bootstrap (optional): ... Attention required
-
+Pyton: Logic for Github statics, function implementation to extract data from GitHub API
+OWA/Open Web Analytics: Cookies Collection
+PHPMailer: Help for the email feature
+hCaptcha: Use for authentication on the /Contact page
+````
+    
+   
 # 4. Installation and Configuration
 
 Clone the Repository:
